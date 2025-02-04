@@ -4,4 +4,3 @@ numpy
 pandas
 tqdm
 openpyxl
-jupyterlab
